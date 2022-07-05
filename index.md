@@ -12,6 +12,3 @@ These data were carefully collected from publicly available records by Julia, Me
 - Olivier Elkan
 
 
-## How to use these data
-
-
